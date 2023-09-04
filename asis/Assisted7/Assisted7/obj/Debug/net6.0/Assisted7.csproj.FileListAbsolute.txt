@@ -1,0 +1,62 @@
+D:\Assisted projects\phase3\section4\Assisted7\Assisted7\bin\Debug\net6.0\appsettings.Development.json
+D:\Assisted projects\phase3\section4\Assisted7\Assisted7\bin\Debug\net6.0\appsettings.json
+D:\Assisted projects\phase3\section4\Assisted7\Assisted7\bin\Debug\net6.0\Assisted7.staticwebassets.runtime.json
+D:\Assisted projects\phase3\section4\Assisted7\Assisted7\bin\Debug\net6.0\Assisted7.exe
+D:\Assisted projects\phase3\section4\Assisted7\Assisted7\bin\Debug\net6.0\Assisted7.deps.json
+D:\Assisted projects\phase3\section4\Assisted7\Assisted7\bin\Debug\net6.0\Assisted7.runtimeconfig.json
+D:\Assisted projects\phase3\section4\Assisted7\Assisted7\bin\Debug\net6.0\Assisted7.dll
+D:\Assisted projects\phase3\section4\Assisted7\Assisted7\bin\Debug\net6.0\Assisted7.pdb
+D:\Assisted projects\phase3\section4\Assisted7\Assisted7\obj\Debug\net6.0\Assisted7.csproj.AssemblyReference.cache
+D:\Assisted projects\phase3\section4\Assisted7\Assisted7\obj\Debug\net6.0\Assisted7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assisted projects\phase3\section4\Assisted7\Assisted7\obj\Debug\net6.0\Assisted7.AssemblyInfoInputs.cache
+D:\Assisted projects\phase3\section4\Assisted7\Assisted7\obj\Debug\net6.0\Assisted7.AssemblyInfo.cs
+D:\Assisted projects\phase3\section4\Assisted7\Assisted7\obj\Debug\net6.0\Assisted7.csproj.CoreCompileInputs.cache
+D:\Assisted projects\phase3\section4\Assisted7\Assisted7\obj\Debug\net6.0\Assisted7.MvcApplicationPartsAssemblyInfo.cache
+D:\Assisted projects\phase3\section4\Assisted7\Assisted7\obj\Debug\net6.0\Assisted7.RazorAssemblyInfo.cache
+D:\Assisted projects\phase3\section4\Assisted7\Assisted7\obj\Debug\net6.0\Assisted7.RazorAssemblyInfo.cs
+D:\Assisted projects\phase3\section4\Assisted7\Assisted7\obj\Debug\net6.0\staticwebassets\msbuild.Assisted7.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Assisted projects\phase3\section4\Assisted7\Assisted7\obj\Debug\net6.0\staticwebassets\msbuild.build.Assisted7.props
+D:\Assisted projects\phase3\section4\Assisted7\Assisted7\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Assisted7.props
+D:\Assisted projects\phase3\section4\Assisted7\Assisted7\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Assisted7.props
+D:\Assisted projects\phase3\section4\Assisted7\Assisted7\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Assisted projects\phase3\section4\Assisted7\Assisted7\obj\Debug\net6.0\staticwebassets.build.json
+D:\Assisted projects\phase3\section4\Assisted7\Assisted7\obj\Debug\net6.0\staticwebassets.development.json
+D:\Assisted projects\phase3\section4\Assisted7\Assisted7\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Assisted projects\phase3\section4\Assisted7\Assisted7\obj\Debug\net6.0\scopedcss\bundle\Assisted7.styles.css
+D:\Assisted projects\phase3\section4\Assisted7\Assisted7\obj\Debug\net6.0\scopedcss\projectbundle\Assisted7.bundle.scp.css
+D:\Assisted projects\phase3\section4\Assisted7\Assisted7\obj\Debug\net6.0\Assisted7.dll
+D:\Assisted projects\phase3\section4\Assisted7\Assisted7\obj\Debug\net6.0\refint\Assisted7.dll
+D:\Assisted projects\phase3\section4\Assisted7\Assisted7\obj\Debug\net6.0\Assisted7.pdb
+D:\Assisted projects\phase3\section4\Assisted7\Assisted7\obj\Debug\net6.0\Assisted7.genruntimeconfig.cache
+D:\Assisted projects\phase3\section4\Assisted7\Assisted7\obj\Debug\net6.0\ref\Assisted7.dll
+D:\SimpliLearn\Assisted projects\Phase 2_Assisted Projects\Section_4\asis\Assisted7\Assisted7\bin\Debug\net6.0\appsettings.Development.json
+D:\SimpliLearn\Assisted projects\Phase 2_Assisted Projects\Section_4\asis\Assisted7\Assisted7\bin\Debug\net6.0\appsettings.json
+D:\SimpliLearn\Assisted projects\Phase 2_Assisted Projects\Section_4\asis\Assisted7\Assisted7\bin\Debug\net6.0\Assisted7.staticwebassets.runtime.json
+D:\SimpliLearn\Assisted projects\Phase 2_Assisted Projects\Section_4\asis\Assisted7\Assisted7\bin\Debug\net6.0\Assisted7.exe
+D:\SimpliLearn\Assisted projects\Phase 2_Assisted Projects\Section_4\asis\Assisted7\Assisted7\bin\Debug\net6.0\Assisted7.deps.json
+D:\SimpliLearn\Assisted projects\Phase 2_Assisted Projects\Section_4\asis\Assisted7\Assisted7\bin\Debug\net6.0\Assisted7.runtimeconfig.json
+D:\SimpliLearn\Assisted projects\Phase 2_Assisted Projects\Section_4\asis\Assisted7\Assisted7\bin\Debug\net6.0\Assisted7.dll
+D:\SimpliLearn\Assisted projects\Phase 2_Assisted Projects\Section_4\asis\Assisted7\Assisted7\bin\Debug\net6.0\Assisted7.pdb
+D:\SimpliLearn\Assisted projects\Phase 2_Assisted Projects\Section_4\asis\Assisted7\Assisted7\obj\Debug\net6.0\Assisted7.csproj.AssemblyReference.cache
+D:\SimpliLearn\Assisted projects\Phase 2_Assisted Projects\Section_4\asis\Assisted7\Assisted7\obj\Debug\net6.0\Assisted7.GeneratedMSBuildEditorConfig.editorconfig
+D:\SimpliLearn\Assisted projects\Phase 2_Assisted Projects\Section_4\asis\Assisted7\Assisted7\obj\Debug\net6.0\Assisted7.AssemblyInfoInputs.cache
+D:\SimpliLearn\Assisted projects\Phase 2_Assisted Projects\Section_4\asis\Assisted7\Assisted7\obj\Debug\net6.0\Assisted7.AssemblyInfo.cs
+D:\SimpliLearn\Assisted projects\Phase 2_Assisted Projects\Section_4\asis\Assisted7\Assisted7\obj\Debug\net6.0\Assisted7.csproj.CoreCompileInputs.cache
+D:\SimpliLearn\Assisted projects\Phase 2_Assisted Projects\Section_4\asis\Assisted7\Assisted7\obj\Debug\net6.0\Assisted7.MvcApplicationPartsAssemblyInfo.cache
+D:\SimpliLearn\Assisted projects\Phase 2_Assisted Projects\Section_4\asis\Assisted7\Assisted7\obj\Debug\net6.0\Assisted7.RazorAssemblyInfo.cache
+D:\SimpliLearn\Assisted projects\Phase 2_Assisted Projects\Section_4\asis\Assisted7\Assisted7\obj\Debug\net6.0\Assisted7.RazorAssemblyInfo.cs
+D:\SimpliLearn\Assisted projects\Phase 2_Assisted Projects\Section_4\asis\Assisted7\Assisted7\obj\Debug\net6.0\staticwebassets\msbuild.Assisted7.Microsoft.AspNetCore.StaticWebAssets.props
+D:\SimpliLearn\Assisted projects\Phase 2_Assisted Projects\Section_4\asis\Assisted7\Assisted7\obj\Debug\net6.0\staticwebassets\msbuild.build.Assisted7.props
+D:\SimpliLearn\Assisted projects\Phase 2_Assisted Projects\Section_4\asis\Assisted7\Assisted7\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Assisted7.props
+D:\SimpliLearn\Assisted projects\Phase 2_Assisted Projects\Section_4\asis\Assisted7\Assisted7\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Assisted7.props
+D:\SimpliLearn\Assisted projects\Phase 2_Assisted Projects\Section_4\asis\Assisted7\Assisted7\obj\Debug\net6.0\staticwebassets.pack.json
+D:\SimpliLearn\Assisted projects\Phase 2_Assisted Projects\Section_4\asis\Assisted7\Assisted7\obj\Debug\net6.0\staticwebassets.build.json
+D:\SimpliLearn\Assisted projects\Phase 2_Assisted Projects\Section_4\asis\Assisted7\Assisted7\obj\Debug\net6.0\staticwebassets.development.json
+D:\SimpliLearn\Assisted projects\Phase 2_Assisted Projects\Section_4\asis\Assisted7\Assisted7\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\SimpliLearn\Assisted projects\Phase 2_Assisted Projects\Section_4\asis\Assisted7\Assisted7\obj\Debug\net6.0\scopedcss\bundle\Assisted7.styles.css
+D:\SimpliLearn\Assisted projects\Phase 2_Assisted Projects\Section_4\asis\Assisted7\Assisted7\obj\Debug\net6.0\scopedcss\projectbundle\Assisted7.bundle.scp.css
+D:\SimpliLearn\Assisted projects\Phase 2_Assisted Projects\Section_4\asis\Assisted7\Assisted7\obj\Debug\net6.0\Assisted7.dll
+D:\SimpliLearn\Assisted projects\Phase 2_Assisted Projects\Section_4\asis\Assisted7\Assisted7\obj\Debug\net6.0\refint\Assisted7.dll
+D:\SimpliLearn\Assisted projects\Phase 2_Assisted Projects\Section_4\asis\Assisted7\Assisted7\obj\Debug\net6.0\Assisted7.pdb
+D:\SimpliLearn\Assisted projects\Phase 2_Assisted Projects\Section_4\asis\Assisted7\Assisted7\obj\Debug\net6.0\Assisted7.genruntimeconfig.cache
+D:\SimpliLearn\Assisted projects\Phase 2_Assisted Projects\Section_4\asis\Assisted7\Assisted7\obj\Debug\net6.0\ref\Assisted7.dll

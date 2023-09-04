@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Assisted2.props" />
+</Project>
